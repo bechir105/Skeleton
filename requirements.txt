@@ -3,3 +3,4 @@ tensorflow==2.15.0
 opencv-contrib-python==4.9.0.80
 mediapipe==0.10.9
 Werkzeug==2.1.2
+pandas==1.5.3
