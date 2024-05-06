@@ -1,12 +1,12 @@
-Flask==2.1.3
-tensorflow==2.15.0
-opencv-contrib-python==4.9.0.80
-mediapipe==0.10.9
-Werkzeug==2.1.2
-pandas==1.5.3
-numpy==1.26.4
-scikit-learn==1.2.1
-tensorflowjs==4.17.0
-gunicorn==20.1.0
+Flask
+tensorflow==2.16.1
+opencv-contrib-python
+mediapipe
+Werkzeug
+pandas
+numpy
+scikit-learn
+tensorflowjs
+gunicorn
 pymongo[srv]
 
