@@ -74,9 +74,3 @@ jobs:
         with:
           app-name: "skeletonIqraa"
           slot-name: "Production"
-
-      - name: Start Flask app
-        run: |
-          source venv/bin/activate
-          export FLASK_APP=server.py  
-          flask run --host=0.0.0.0
